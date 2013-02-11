@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:a4j="http://richfaces.org/a4j"
+	xmlns:rich="http://richfaces.org/rich">
+
+<body>
+	<ui:composition template="/templates/template.xhtml">
+
+		<ui:define name="title">RichFaces Sample</ui:define>
+
+		<ui:define name="body">
+			<h:form prependId="false">
+
+				<rich:extendedDataTable
+					value="#{programmeListPresentation.programmeModelList}" var="programmeModel"
+					id="table" selection="#{programmeListPresentation.selection}">
+
+					<rich:column sortable="
+					true" sortBy="#{programmeModel.nom}"
+						id="col_nom" filterBy="#{programmeModel.nom}" filterEvent="onkeyup"
+						label="Nom">
+						<f:facet name="header">
+							<h:outputText value="nom" id="id_nom_header" />
+						</f:facet>
+						<h:outputText value="#{programmeModel.nom}" id="id_nom_text" />
+					</rich:column>
+					
+					<rich:column sortable="
+					true" sortBy="#{programmeModel.descreption}"
+						id="col_desc" filterBy="#{programmeModel.descreption}" filterEvent="onkeyup"
+						label="Descreption">
+						<f:facet name="header">
+							<h:outputText value="Descreption" id="id_descreption_header" />
+						</f:facet>
+						<h:outputText value="#{programmeModel.descreption}" id="id_descreption_text" />
+					</rich:column>
+					
+					<rich:column sortable="true" sortBy="#{programmeModel.heureDebut}"
+						id="col_hd" filterBy="#{programmeModel.heureDebut}" filterEvent="onkeyup"
+						label="heure de Début">
+						<f:facet name="header">
+							<h:outputText value="heureDebut" id="id_heure_debut_header" />
+						</f:facet>
+						<h:outputText value="#{programmeModel.heureDebut}" id="id_heure_debut_text" />
+					</rich:column>
+					
+					<rich:column sortable="true" sortBy="#{programmeModel.heureFin}"
+						id="col_hf" filterBy="#{programmeModel.heureFin}" filterEvent="onkeyup"
+						label="heure de la Fin">
+						<f:facet name="header">
+							<h:outputText value="heureFint" id="id_heure_fin_header" />
+						</f:facet>
+						<h:outputText value="#{programmeModel.heureFin}" id="id_heure_fin_text" />
+					</rich:column>
+					
+					<!-- 					<a4j:support id="extended_table_bean_take_selection" action="#{prorgrammeListPresentation.changeSelection}" event="onselectionchange" /> -->
+				</rich:extendedDataTable>
+				
+				<h:commandButton action="#{programmeListPresentation.ajouter}"
+					value="Ajouter" />
+				
+				<h:commandButton action="#{programmeListPresentation.modifier}"
+					value="Modifier">
+					<f:setPropertyActionListener
+						target="#{programmePresentation.programmeModel}"
+						value="#{programmeListPresentation.programmeModel}" />
+				</h:commandButton>
+				
+				<h:commandButton action="#{programmeListPresentation.supprimer}"
+					value="Supprimer">
+					<f:setPropertyActionListener
+						target="#{programmePresentation.programmeModel}"
+						value="#{programmeListPresentation.programmeModel}" />
+				</h:commandButton>
+				
+			</h:form>
+		</ui:define>
+	</ui:composition>
+</body>
+</html>

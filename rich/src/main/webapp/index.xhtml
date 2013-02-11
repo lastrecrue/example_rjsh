@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:a4j="http://richfaces.org/a4j"
+	xmlns:rich="http://richfaces.org/rich">
+
+<body>
+	<ui:composition template="/templates/template.xhtml">
+
+		<ui:define name="title">RichFaces Sample</ui:define>
+
+		<ui:define name="body">
+			<h:form prependId="false">
+
+				<rich:extendedDataTable
+					value="#{chaineListPresentation.chaineModelList}" var="chaineModel"
+					id="table" selection="#{chaineListPresentation.selection}">
+
+					<rich:column sortable="
+					true" sortBy="#{chaineModel.nom}"
+						id="col_1" filterBy="#{chaineModel.nom}" filterEvent="onkeyup"
+						label="Nom">
+						<f:facet name="header">
+							<h:outputText value="Nom" id="id_nom_header" />
+						</f:facet>
+						<h:outputText value="#{chaineModel.nom}" id="id_nom_text" />
+					</rich:column>
+					<rich:column sortable="true" sortBy="#{chaineModel.type}"
+						id="col_2" filterBy="#{chaineModel.type}" filterEvent="onkeyup"
+						label="Type">
+						<f:facet name="header">
+							<h:outputText value="Type" id="id_type_header" />
+						</f:facet>
+						<h:outputText value="#{chaineModel.type}" id="id_type_text" />
+					</rich:column>
+					<rich:column sortable="true" sortBy="#{chaineModel.dateCreation}"
+						id="col_3" filterBy="#{chaineModel.dateCreation}"
+						filterEvent="onkeyup" label="dateCreation">
+						<f:facet name="header">
+							<h:outputText value="date de Création"
+								id="id_date_creation_header" />
+						</f:facet>
+						<h:outputText value="#{chaineModel.nom}"
+							id="id_date_creation_text" />
+					</rich:column>
+					<!-- 					<a4j:support id="extended_table_bean_take_selection" action="#{chaineListPresentation.changeSelection}" event="onselectionchange" /> -->
+				</rich:extendedDataTable>
+				<h:commandButton action="#{chaineListPresentation.ajouter}"
+					value="Ajouter" />
+				<h:commandButton action="#{chaineListPresentation.modifier}"
+					value="Modifier">
+					<f:setPropertyActionListener
+						target="#{chainePresentation.chaineModel}"
+						value="#{chaineListPresentation.chaineModel}" />
+				</h:commandButton>
+				<h:commandButton action="#{chaineListPresentation.supprimer}"
+					value="Supprimer">
+					<f:setPropertyActionListener
+						target="#{chainePresentation.chaineModel}"
+						value="#{chaineListPresentation.chaineModel}" />
+				</h:commandButton>
+			</h:form>
+		</ui:define>
+	</ui:composition>
+</body>
+</html>
