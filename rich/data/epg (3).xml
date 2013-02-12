@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="epgs.com">
+	<channel id="11413">
+		<display-name lang="ar">BBC Arabic AR</display-name>
+		<icon src="http://epgs.com/imgs/logo/bbcarabic.png" />
+	</channel>
+	<programme channel="11413" start="20130212050000 +0000" stop="20130212051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212051000 +0000" stop="20130212060000 +0000">
+		<title lang="ar">وثائقيات - عن قرب ( اعادة)</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212060000 +0000" stop="20130212063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212063000 +0000" stop="20130212070000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212070000 +0000" stop="20130212080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212080000 +0000" stop="20130212081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212081000 +0000" stop="20130212090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212090000 +0000" stop="20130212100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212100000 +0000" stop="20130212101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212101000 +0000" stop="20130212110000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212110000 +0000" stop="20130212111000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212111000 +0000" stop="20130212120000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212120000 +0000" stop="20130212123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212123000 +0000" stop="20130212130000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212130000 +0000" stop="20130212140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212140000 +0000" stop="20130212141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212141000 +0000" stop="20130212150000 +0000">
+		<title lang="ar">سينما بديلة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212150000 +0000" stop="20130212151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212151000 +0000" stop="20130212160000 +0000">
+		<title lang="ar">نقطة حوار مباشر</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212160000 +0000" stop="20130212170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212170000 +0000" stop="20130212173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212173000 +0000" stop="20130212180000 +0000">
+		<title lang="ar">برنامج تعليم الانجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212180000 +0000" stop="20130212190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212190000 +0000" stop="20130212191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212191000 +0000" stop="20130212200000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212200000 +0000" stop="20130212210000 +0000">
+		<title lang="ar">أخابر بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212210000 +0000" stop="20130212213000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212213000 +0000" stop="20130212220000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212220000 +0000" stop="20130212221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212221000 +0000" stop="20130212230000 +0000">
+		<title lang="ar">توب غير</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130212230000 +0000" stop="20130213000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213000000 +0000" stop="20130213001000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213001000 +0000" stop="20130213010000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213010000 +0000" stop="20130213011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213011000 +0000" stop="20130213020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213020000 +0000" stop="20130213030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213030000 +0000" stop="20130213033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213033000 +0000" stop="20130213040000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213040000 +0000" stop="20130213050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130212</date>
+	</programme>
+	<programme channel="11413" start="20130213050000 +0000" stop="20130213051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213051000 +0000" stop="20130213060000 +0000">
+		<title lang="ar">اجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213060000 +0000" stop="20130213063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213063000 +0000" stop="20130213070000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213070000 +0000" stop="20130213080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213080000 +0000" stop="20130213081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213081000 +0000" stop="20130213090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213090000 +0000" stop="20130213100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213100000 +0000" stop="20130213101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213101000 +0000" stop="20130213110000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213110000 +0000" stop="20130213120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213120000 +0000" stop="20130213123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213123000 +0000" stop="20130213130000 +0000">
+		<title lang="ar">برنامج تعليم الإنجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213130000 +0000" stop="20130213140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213140000 +0000" stop="20130213141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213141000 +0000" stop="20130213150000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213150000 +0000" stop="20130213151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213151000 +0000" stop="20130213160000 +0000">
+		<title lang="ar">نقطة حوار مباشر</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213160000 +0000" stop="20130213170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213170000 +0000" stop="20130213173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213173000 +0000" stop="20130213180000 +0000">
+		<title lang="ar">آفاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213180000 +0000" stop="20130213190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213190000 +0000" stop="20130213191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213191000 +0000" stop="20130213200000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213200000 +0000" stop="20130213210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213210000 +0000" stop="20130213213000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213213000 +0000" stop="20130213220000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213220000 +0000" stop="20130213221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213221000 +0000" stop="20130213230000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130213230000 +0000" stop="20130214000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214000000 +0000" stop="20130214001000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214001000 +0000" stop="20130214010000 +0000">
+		<title lang="ar">اجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214010000 +0000" stop="20130214011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214011000 +0000" stop="20130214020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214020000 +0000" stop="20130214030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214030000 +0000" stop="20130214033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214033000 +0000" stop="20130214040000 +0000">
+		<title lang="ar">آفاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214040000 +0000" stop="20130214050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130213</date>
+	</programme>
+	<programme channel="11413" start="20130214050000 +0000" stop="20130214051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214051000 +0000" stop="20130214060000 +0000">
+		<title lang="ar">اجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214060000 +0000" stop="20130214063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214063000 +0000" stop="20130214070000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214070000 +0000" stop="20130214080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214080000 +0000" stop="20130214081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214081000 +0000" stop="20130214090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214090000 +0000" stop="20130214100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214100000 +0000" stop="20130214101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214101000 +0000" stop="20130214110000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214110000 +0000" stop="20130214120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214120000 +0000" stop="20130214123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214123000 +0000" stop="20130214130000 +0000">
+		<title lang="ar">آفاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214130000 +0000" stop="20130214140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214140000 +0000" stop="20130214141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214141000 +0000" stop="20130214150000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214150000 +0000" stop="20130214151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214151000 +0000" stop="20130214160000 +0000">
+		<title lang="ar">نقطة حوار مباشر</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214160000 +0000" stop="20130214170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214170000 +0000" stop="20130214173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214173000 +0000" stop="20130214180000 +0000">
+		<title lang="ar">أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214180000 +0000" stop="20130214190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214190000 +0000" stop="20130214191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214191000 +0000" stop="20130214200000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214200000 +0000" stop="20130214210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214210000 +0000" stop="20130214213000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214213000 +0000" stop="20130214220000 +0000">
+		<title lang="ar">برنامج تعليم الإنجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214220000 +0000" stop="20130214221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214221000 +0000" stop="20130214230000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130214230000 +0000" stop="20130215000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215000000 +0000" stop="20130215001000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215001000 +0000" stop="20130215010000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215010000 +0000" stop="20130215011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215011000 +0000" stop="20130215020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215020000 +0000" stop="20130215030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215030000 +0000" stop="20130215033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215033000 +0000" stop="20130215040000 +0000">
+		<title lang="ar">برنامج تعليم الإنجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215040000 +0000" stop="20130215050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130214</date>
+	</programme>
+	<programme channel="11413" start="20130215050000 +0000" stop="20130215051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215051000 +0000" stop="20130215060000 +0000">
+		<title lang="ar">اجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215060000 +0000" stop="20130215063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215063000 +0000" stop="20130215070000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215070000 +0000" stop="20130215080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215080000 +0000" stop="20130215081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215081000 +0000" stop="20130215090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215090000 +0000" stop="20130215100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215100000 +0000" stop="20130215101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215101000 +0000" stop="20130215110000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215110000 +0000" stop="20130215120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215120000 +0000" stop="20130215123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215123000 +0000" stop="20130215130000 +0000">
+		<title lang="ar">أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215130000 +0000" stop="20130215140000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215140000 +0000" stop="20130215141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215141000 +0000" stop="20130215150000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215150000 +0000" stop="20130215151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215151000 +0000" stop="20130215160000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215160000 +0000" stop="20130215170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215170000 +0000" stop="20130215173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215173000 +0000" stop="20130215180000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215180000 +0000" stop="20130215190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215190000 +0000" stop="20130215191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215191000 +0000" stop="20130215200000 +0000">
+		<title lang="ar">سبعة ايام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215200000 +0000" stop="20130215210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215210000 +0000" stop="20130215211000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215211000 +0000" stop="20130215220000 +0000">
+		<title lang="ar">افاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215220000 +0000" stop="20130215230000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130215230000 +0000" stop="20130216000000 +0000">
+		<title lang="ar">العالم هذا المساء اعادة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216000000 +0000" stop="20130216001000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216001000 +0000" stop="20130216010000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216010000 +0000" stop="20130216011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216011000 +0000" stop="20130216020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216020000 +0000" stop="20130216030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216030000 +0000" stop="20130216031000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216031000 +0000" stop="20130216040000 +0000">
+		<title lang="ar">آفاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216040000 +0000" stop="20130216050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130215</date>
+	</programme>
+	<programme channel="11413" start="20130216050000 +0000" stop="20130216051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216051000 +0000" stop="20130216060000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216060000 +0000" stop="20130216063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216063000 +0000" stop="20130216070000 +0000">
+		<title lang="ar">برنامج تعليم الإنجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216070000 +0000" stop="20130216080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216080000 +0000" stop="20130216081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216081000 +0000" stop="20130216090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216090000 +0000" stop="20130216100000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216100000 +0000" stop="20130216101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216101000 +0000" stop="20130216110000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216110000 +0000" stop="20130216120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216120000 +0000" stop="20130216123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216123000 +0000" stop="20130216130000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216130000 +0000" stop="20130216140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216140000 +0000" stop="20130216141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216141000 +0000" stop="20130216150000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216150000 +0000" stop="20130216160000 +0000">
+		<title lang="ar">أخبار - وثائقيات بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216160000 +0000" stop="20130216170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216170000 +0000" stop="20130216173000 +0000">
+		<title lang="ar">أخبار - أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216173000 +0000" stop="20130216180000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216180000 +0000" stop="20130216190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216190000 +0000" stop="20130216190500 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216190500 +0000" stop="20130216200000 +0000">
+		<title lang="ar">سينما بديلة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216200000 +0000" stop="20130216210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216210000 +0000" stop="20130216213000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216213000 +0000" stop="20130216220000 +0000">
+		<title lang="ar">أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216220000 +0000" stop="20130216221000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216221000 +0000" stop="20130216230000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130216230000 +0000" stop="20130217000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217000000 +0000" stop="20130217001000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217001000 +0000" stop="20130217010000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217010000 +0000" stop="20130217011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217011000 +0000" stop="20130217020000 +0000">
+		<title lang="ar">وثائقيات بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217020000 +0000" stop="20130217030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217030000 +0000" stop="20130217033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217033000 +0000" stop="20130217040000 +0000">
+		<title lang="ar">أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217040000 +0000" stop="20130217050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130216</date>
+	</programme>
+	<programme channel="11413" start="20130217050000 +0000" stop="20130217051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217051000 +0000" stop="20130217060000 +0000">
+		<title lang="ar">وثائقيات بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217060000 +0000" stop="20130217063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217063000 +0000" stop="20130217070000 +0000">
+		<title lang="ar">أافاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217070000 +0000" stop="20130217080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217080000 +0000" stop="20130217081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217081000 +0000" stop="20130217090000 +0000">
+		<title lang="ar">سبعة ايام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217090000 +0000" stop="20130217100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217100000 +0000" stop="20130217110000 +0000">
+		<title lang="ar">أخبار - وثائقيات بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217110000 +0000" stop="20130217120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217120000 +0000" stop="20130217121500 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217121500 +0000" stop="20130217130000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217130000 +0000" stop="20130217140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217140000 +0000" stop="20130217141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217141000 +0000" stop="20130217150000 +0000">
+		<title lang="ar">وثائقيات بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217150000 +0000" stop="20130217151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217151000 +0000" stop="20130217160000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217160000 +0000" stop="20130217170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217170000 +0000" stop="20130217173000 +0000">
+		<title lang="ar">اخبار - فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217173000 +0000" stop="20130217180000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217180000 +0000" stop="20130217190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217190000 +0000" stop="20130217191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217191000 +0000" stop="20130217200000 +0000">
+		<title lang="ar">توب غير</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217200000 +0000" stop="20130217210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217210000 +0000" stop="20130217213000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217213000 +0000" stop="20130217220000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217220000 +0000" stop="20130217221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217221000 +0000" stop="20130217230000 +0000">
+		<title lang="ar">سبعة ايام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130217230000 +0000" stop="20130218000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218000000 +0000" stop="20130218001000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218001000 +0000" stop="20130218010000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218010000 +0000" stop="20130218011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218011000 +0000" stop="20130218020000 +0000">
+		<title lang="ar">سبعة ايام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218020000 +0000" stop="20130218030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218030000 +0000" stop="20130218031500 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218031500 +0000" stop="20130218040000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218040000 +0000" stop="20130218050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130217</date>
+	</programme>
+	<programme channel="11413" start="20130218050000 +0000" stop="20130218051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218051000 +0000" stop="20130218060000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218060000 +0000" stop="20130218063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218063000 +0000" stop="20130218070000 +0000">
+		<title lang="ar">أنا الشاهد</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218070000 +0000" stop="20130218080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218080000 +0000" stop="20130218081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218081000 +0000" stop="20130218090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218090000 +0000" stop="20130218100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218100000 +0000" stop="20130218101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218101000 +0000" stop="20130218110000 +0000">
+		<title lang="ar">سبعة أيام</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218110000 +0000" stop="20130218120000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218120000 +0000" stop="20130218123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218123000 +0000" stop="20130218130000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218130000 +0000" stop="20130218140000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218140000 +0000" stop="20130218141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218141000 +0000" stop="20130218150000 +0000">
+		<title lang="ar">توب غير</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218150000 +0000" stop="20130218151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218151000 +0000" stop="20130218160000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218160000 +0000" stop="20130218170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218170000 +0000" stop="20130218173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218173000 +0000" stop="20130218180000 +0000">
+		<title lang="ar">أفاق</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218180000 +0000" stop="20130218190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218190000 +0000" stop="20130218191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218191000 +0000" stop="20130218200000 +0000">
+		<title lang="ar">وثائقيات (عن قرب)</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218200000 +0000" stop="20130218210000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218210000 +0000" stop="20130218213000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218213000 +0000" stop="20130218220000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218220000 +0000" stop="20130218221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218221000 +0000" stop="20130218230000 +0000">
+		<title lang="ar">سينما بديلة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130218230000 +0000" stop="20130219000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219000000 +0000" stop="20130219001000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219001000 +0000" stop="20130219010000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219010000 +0000" stop="20130219011000 +0000">
+		<title lang="ar">اخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219011000 +0000" stop="20130219020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219020000 +0000" stop="20130219030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219030000 +0000" stop="20130219033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219033000 +0000" stop="20130219040000 +0000">
+		<title lang="ar">فور تك</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219040000 +0000" stop="20130219050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130218</date>
+	</programme>
+	<programme channel="11413" start="20130219050000 +0000" stop="20130219051000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219051000 +0000" stop="20130219060000 +0000">
+		<title lang="ar">وثائقيات - عن قرب ( اعادة)</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219060000 +0000" stop="20130219063000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219063000 +0000" stop="20130219070000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219070000 +0000" stop="20130219080000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219080000 +0000" stop="20130219081000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219081000 +0000" stop="20130219090000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219090000 +0000" stop="20130219100000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219100000 +0000" stop="20130219101000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219101000 +0000" stop="20130219110000 +0000">
+		<title lang="ar">وثائقيات - عن قرب</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219110000 +0000" stop="20130219111000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219111000 +0000" stop="20130219120000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219120000 +0000" stop="20130219123000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219123000 +0000" stop="20130219130000 +0000">
+		<title lang="ar">رأيكم</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219130000 +0000" stop="20130219140000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219140000 +0000" stop="20130219141000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219141000 +0000" stop="20130219150000 +0000">
+		<title lang="ar">سينما بديلة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219150000 +0000" stop="20130219151000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219151000 +0000" stop="20130219160000 +0000">
+		<title lang="ar">نقطة حوار مباشر</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219160000 +0000" stop="20130219170000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219170000 +0000" stop="20130219173000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219173000 +0000" stop="20130219180000 +0000">
+		<title lang="ar">برنامج تعليم الانجليزية</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219180000 +0000" stop="20130219190000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219190000 +0000" stop="20130219191000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219191000 +0000" stop="20130219200000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219200000 +0000" stop="20130219210000 +0000">
+		<title lang="ar">أخابر بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219210000 +0000" stop="20130219213000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219213000 +0000" stop="20130219220000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219220000 +0000" stop="20130219221000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219221000 +0000" stop="20130219230000 +0000">
+		<title lang="ar">توب غير</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130219230000 +0000" stop="20130220000000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220000000 +0000" stop="20130220001000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220001000 +0000" stop="20130220010000 +0000">
+		<title lang="ar">أجندة مفتوحة</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220010000 +0000" stop="20130220011000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220011000 +0000" stop="20130220020000 +0000">
+		<title lang="ar">نقطة حوار</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220020000 +0000" stop="20130220030000 +0000">
+		<title lang="ar">العالم هذا المساء</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220030000 +0000" stop="20130220033000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220033000 +0000" stop="20130220040000 +0000">
+		<title lang="ar">بلا قيود</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+	<programme channel="11413" start="20130220040000 +0000" stop="20130220050000 +0000">
+		<title lang="ar">أخبار بي بي سي</title>
+		<category lang="ar">news</category>
+		<date lang="ar">20130219</date>
+	</programme>
+</tv>
